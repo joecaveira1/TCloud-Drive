@@ -8,6 +8,8 @@ Com uma interface semelhante ao **Windows Explorer**, você pode organizar, envi
 
 ---
 
+<img width="1703" height="923" alt="ChatGPT Image 16 de set  de 2026, 23_10_09" src="https://github.com/user-attachments/assets/94096f5a-cb3f-47be-9138-f4db6971ab0d" />
+
 ## 🚀 Principais recursos
 
 - 📁 Envio de arquivos e pastas completas
