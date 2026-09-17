@@ -31,9 +31,8 @@ A versão de teste permite realizar até **2 GB de transferências**, para você
 
 ### ⬇️ Download
 
-👉 **[Baixar TCloud Drive – Versão de Teste (2 GB)](https://github.com/joecaveira1/TCloud-Drive/releases/latest)**
+👉 **[⬇️ Baixar TCloud Drive – Versão de Teste (2 GB)](https://github.com/joecaveira1/TCloud-Drive/releases/latest/download/TCloudDrive_TRIAL.exe)**
 
-Na página que abrir, clique em **TCloudDrive_TRIAL.exe**.
 
 ---
 
