@@ -27,11 +27,11 @@ Com uma interface semelhante ao **Windows Explorer**, você pode organizar, envi
 
 Experimente gratuitamente o **TCloud Drive**.
 
-A versão de teste permite realizar até **2 GB de transferências**, para você conhecer o funcionamento do programa antes de adquirir a versão completa.
+A versão de teste permite realizar até **20 GB de transferências**, para você conhecer o funcionamento do programa antes de adquirir a versão completa.
 
 ### ⬇️ Download
 
-👉 **[⬇️ Baixar TCloud Drive – Versão de Teste (2 GB)](https://github.com/joecaveira1/TCloud-Drive/releases/latest/download/TCloudDrive_TRIAL.exe)**
+👉 **[⬇️ Baixar TCloud Drive – Versão de Teste (20 GB)](https://github.com/joecaveira1/TCloud-Drive/releases/latest/download/TCloudDrive_TRIAL.exe)**
 
 
 ---
